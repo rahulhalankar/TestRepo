@@ -1,2 +1,4 @@
 Change1 (remote master)
 Change2 (remote master)
+
+Change3 (local master)
